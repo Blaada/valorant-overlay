@@ -1,0 +1,12 @@
+{
+    "team1": {
+        "name": "FOX",
+        "icon": "fox",
+        "isDefender": true
+    },
+    "team2": {
+        "name": "MLC",
+        "icon": "mlc",
+        "isDefender": false
+    }
+}

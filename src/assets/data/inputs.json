@@ -1,0 +1,131 @@
+{
+    "event": {
+        "score": [
+            "0",
+            "1"
+        ],
+        "spike_status": "False",
+        "agents_with_loadouts_shields": {
+            "blue":[
+                [
+                    "Chamber",
+                    "guardian",
+                    "half",
+                    {
+                        "number": "6",
+                        "confidence": 0.8680080081276742
+                    }
+                ],
+                [
+                    "Breach",
+                    "ares",
+                    "None",
+                    {
+                        "number": "6",
+                        "confidence": 0.9999976158156301
+                    }
+                ],
+                [
+                    "KAYO",
+                    "bucky",
+                    "None",
+                    "READY"
+                ],
+                [
+                    "Jett",
+                    "bulldog",
+                    "full",
+                    {
+                        "number": "4",
+                        "confidence": 0.8959580529017899
+                    }
+                ],
+                [
+                    "Cypher",
+                    "knife",
+                    "None",
+                    {
+                        "number": "4",
+                        "confidence": 0.9999008203303674
+                    }
+                ]
+            ],
+            "red":[
+                [
+                    "Killjoy",
+                    "frenzy",
+                    "half",
+                    {
+                        "number": "6",
+                        "confidence": 0.8680080081276742
+                    }
+                ],
+                [
+                    "Skye",
+                    "shorty",
+                    "None",
+                    {
+                        "number": "6",
+                        "confidence": 0.9999976158156301
+                    }
+                ],
+                [
+                    "Sage",
+                    "odin",
+                    "None",
+                    "READY"
+                ],
+                [
+                    "Sova",
+                    "operator",
+                    "None",
+                    {
+                        "number": "4",
+                        "confidence": 0.8959580529017899
+                    }
+                ],
+                [
+                    "Yoru",
+                    "phantom",
+                    "None",
+                    {
+                        "number": "4",
+                        "confidence": 0.9999008203303674
+                    }
+                ]
+            ]
+        },
+        "alive_agents": {
+            "blue": [
+                "Chamber",
+                "Breach",
+                "KAYO",
+                "Jett",
+                "Cypher"
+            ],
+            "red": [
+                "Killjoy",
+                "Skye",
+                "Sage",
+                "Sova",
+                "Yoru"
+            ]
+        },
+        "health_values": {
+            "blue": [
+                84,
+                49,
+                1,
+                90,
+                48
+            ],
+            "red": [
+                84,
+                49,
+                1,
+                90,
+                48
+            ]
+        }
+    }
+}
